@@ -119,66 +119,6 @@
       "name": "raj20",
       "age":25,
       "gender":"male"
-    },
-    {
-      "id": 21,
-      "name": "raj21",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 22,
-      "name": "raj22",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 23,
-      "name": "raj23",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 24,
-      "name": "raj24",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 25,
-      "name": "raj25",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 26,
-      "name": "raj262",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 27,
-      "name": "raj27",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 28,
-      "name": "raj28",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 29,
-      "name": "raj29",
-      "age":25,
-      "gender":"male"
-    },
-    {
-      "id": 30,
-      "name": "raj30",
-      "age":25,
-      "gender":"male"
     }
   ]  
 }
