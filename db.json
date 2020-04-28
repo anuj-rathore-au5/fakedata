@@ -4,91 +4,91 @@
       "id": 1,
       "name": "Anuj",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 2,
       "name": "ram",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 3,
       "name": "rohit",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 4,
       "name": "shyma",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 5,
       "name": "ravi",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 6,
       "name": "kumar",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 7,
       "name": "shri",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 8,
       "name": "Anuj rathore",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 9,
       "name": "rohit",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 10,
       "name": "ramlala",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 11,
       "name": "shreya",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 12,
       "name": "vishnu",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 13,
       "name": "rajat",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 14,
       "name": "mohit",
       "age":25,
-      gender:"male"
+      "gender":"male"
     },
     {
       "id": 15,
       "name": "raj",
       "age":25,
-      gender:"male"
+      "gender":"male"
     }
   ]  
 }
